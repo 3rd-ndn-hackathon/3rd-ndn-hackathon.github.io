@@ -3,7 +3,7 @@ layout: page
 title: Welcome to 3nd NDN Hackathon
 ---
 
-The NDN Team is organizing our 3nd NDN Hackathon to be held on November 5, 2016 on the Colorado State University Campus in Fort Collins, CO.  We solicit Hackathon project proposals that advance the state of NDN.  Participants will have approximately **6 hours** to work on the projects. 
+The NDN Team is organizing our 3nd NDN Hackathon to be held on November 4-5, 2016 on the Colorado State University Campus in Fort Collins, CO.  We solicit Hackathon project proposals that advance the state of NDN.  Participants will have approximately **12 hours** to work on the projects.
 
 We encourage projects that:
 
