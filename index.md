@@ -11,7 +11,9 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
-## News:
+## News
+
+- October 4, 2016: Hackathon registration is open
 - September 21, 2016: The hackathon website is up
 
 ## Sponsors

@@ -44,6 +44,8 @@ navbar_list:
   link: /committees.html
 - name: Preliminary Program
   link: /program.html
+- name: <b>REGISTER NOW</b>
+  link: https://www.eventbrite.com/e/3rd-ndn-hackathon-tickets-28368329437
 
 # Configuration for responsive break point when using 'custom'.
 responsive_bp: 768
