@@ -15,3 +15,5 @@ title: Committees
 - Jongdeog Lee (University of Illinois at Urbana-Champaign)
 - Chengyu Fan (Colorado State University)
 - Junxiao Shi (University of Arizona)
+- Zhehao Wang (University of California, Los Angeles)
+- Nick Gordon (University of Memphis)
