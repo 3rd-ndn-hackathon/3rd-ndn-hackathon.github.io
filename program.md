@@ -5,6 +5,10 @@ title: 3nd NDN Hackathon Program (Preliminary)
 
 ### Friday, November 4, 2016
 
+We meet in Computer Science Building Room 130
+
+We then move to CSB 315/325 and the 3rd floor lounge
+
 {:.table-condensed .table-striped .table-hover .program}
 
 5:00pm - 5:30pm | Welcome remarks and project idea pitches
@@ -12,6 +16,8 @@ title: 3nd NDN Hackathon Program (Preliminary)
 6:30pm - 11:00pm | Hacking (light snack and "refreshments" will be provided)
 
 ### Saturday, November 5, 2016
+
+CSB 315/325/3rd floor lounge
 
 {:.table-condensed .table-striped .table-hover .program}
 08:30am - 9:00am | Breakfast
