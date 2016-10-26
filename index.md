@@ -20,3 +20,8 @@ We encourage projects that:
 
 - [NDN Consortium](http://named-data.net/consortium/)
 - Facilities provided by [Colorado State University](https://www.cs.colostate.edu/cstop/)
+- [CableLabs](http://www.cablelabs.com/)
+- [KYRIO](http://www.kyrio.com/)
+
+[<img src="{{ site.baseurl }}/images/KYRIO-logo.png" style="margin: 10px; height: 50px" alt="KYRIO"/>](http://www.cablelabs.com/)
+[<img src="{{ site.baseurl }}/images/CableLabs-logo.png" style="margin: 10px; height: 50px" alt="CableLabs"/>](http://www.kyrio.com/)
