@@ -14,9 +14,9 @@ baseurl:
 
 deadlines:
 - name: Submission deadline
-  date: October 26, 2016
+  date: <del>October 26, 2016</del>
 - name: Acceptance notification
-  date: October 31, 2016
+  date: <del>October 31, 2016</del>
 
 # Configuration for permalink
 permalink: /:page.html
@@ -44,8 +44,10 @@ navbar_list:
   link: /committees.html
 - name: Preliminary Program
   link: /program.html
-- name: <b>REGISTER NOW</b>
-  link: https://www.eventbrite.com/e/3rd-ndn-hackathon-tickets-28368329437
+- name: <b>HACKS</b>
+  link: /hacks.html
+# - name: <b>REGISTER NOW</b>
+#   link: https://www.eventbrite.com/e/3rd-ndn-hackathon-tickets-28368329437
 
 # Configuration for responsive break point when using 'custom'.
 responsive_bp: 768
