@@ -42,7 +42,7 @@ navbar_list:
   link: /cfh.html
 - name: Committees
   link: /committees.html
-- name: Preliminary Program
+- name: Program
   link: /program.html
 - name: <b>HACKS</b>
   link: /hacks.html

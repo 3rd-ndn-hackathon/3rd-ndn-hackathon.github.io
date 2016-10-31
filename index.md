@@ -13,6 +13,7 @@ We encourage projects that:
 
 ## News
 
+- October 31, 2016: Posted accepted hackathon projects and final program
 - October 4, 2016: Hackathon registration is open
 - September 21, 2016: The hackathon website is up
 
