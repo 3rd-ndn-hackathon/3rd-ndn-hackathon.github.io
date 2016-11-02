@@ -12,6 +12,12 @@ exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 url: http://3rd-ndn-hackathon.named-data.net
 baseurl: 
 
+Wireless Access Details:
+- netsec-guest (preferred), password: workshop2016
+- eduroam
+- csu-gues (not preferred, throttled and restricted)
+
+
 deadlines:
 - name: Submission deadline
   date: <del>October 26, 2016</del>
