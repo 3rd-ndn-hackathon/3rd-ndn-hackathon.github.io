@@ -32,7 +32,7 @@ Project participants: Jeff Thompson, Wentao Shang, Susmit Shannigrahi, Zhehao Wa
 ### 4. HR Next Phase ([PDF](hacks/{{ file }}.pdf))
 
 
-Project participants: Ashlesh Gawande, Muktadir Chowdhury, Ivan Voitalov ([Slides](https://docs.google.com/presentation/d/1_69uq_oeUrCmCAhYxVtt2qfOTQD7-q9Hs1gOzCAhcZk/edit?usp=sharing)
+Project participants: Ashlesh Gawande, Muktadir Chowdhury, Ivan Voitalov [Slides](https://docs.google.com/presentation/d/1_69uq_oeUrCmCAhYxVtt2qfOTQD7-q9Hs1gOzCAhcZk/edit?usp=sharing)
 
 
 {% image preview IMG_1042.JPG %}
