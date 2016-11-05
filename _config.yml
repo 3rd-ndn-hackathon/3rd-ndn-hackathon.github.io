@@ -7,7 +7,7 @@ plugins_dir: ./_plugins
 lsi: true
 highlighter: rouge
 markdown: kramdown
-exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 
 url: http://3rd-ndn-hackathon.named-data.net
 baseurl: 

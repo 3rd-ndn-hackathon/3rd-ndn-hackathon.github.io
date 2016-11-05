@@ -1,0 +1,21 @@
+language: ruby
+sudo: false
+rvm:
+  - 2.2
+branches:
+  only:
+    - source
+before_install:
+  - git config --global user.name 'Travis-CI'
+  - git config --global user.email 'travis-bot@travis-ci.org'
+  - openssl aes-256-cbc -K $encrypted_1d2ae5c55bcc_key -iv $encrypted_1d2ae5c55bcc_iv -in .travis.d/rsa-target.enc -out ~/.ssh/rsa-target -d
+  - chmod 600 ~/.ssh/rsa-target
+  - cp .travis.d/ssh-config ~/.ssh/config
+script:
+  - git clone -b master git@github.com:3rd-ndn-hackathon/3rd-ndn-hackathon.github.io.git _site
+  - bundle exec jekyll build
+after_success:
+  - cd _site
+  - git add .
+  - git commit -m Update
+  - git push origin HEAD:master

@@ -1,0 +1,6 @@
+Host github.com
+    User git
+    IdentityFile ~/.ssh/rsa-target
+    UserKnownHostsFile /dev/null
+    StrictHostKeyChecking no
+    IdentitiesOnly yes
