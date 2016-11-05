@@ -57,7 +57,6 @@ Project Participants: Klaus Schneider, Thiago Teixeira
 {% image preview 20161105_114455.jpg %}
 
 
-[<img width="300px" src="hacks/preview/{{ file }}.png" />](hacks/preview/{{ file }}.png){: data-lightbox="{{ file }}"}
 
 
 
