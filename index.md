@@ -25,7 +25,7 @@ We encourage projects that:
 ### Day 2
 
 {% image large 20161105_085421.jpg style="width:80%" %}
-
+{% image large 20161105_113633.jpg style="width:80%" %}
 
 ## News
 
