@@ -24,7 +24,7 @@ Project participants: Andres Calderon Jaramillo, Chris Dean
 {% assign file="jefft-mu-forwarder-relay" %}
 ### 3. Ad-hoc NDN Relay with MicroForwarder ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Jeff Thompson, Wentao Shang, Susmit Shannigrahi, Zhehao Wang 
+Project participants: Jeff Thompson, Wentao Shang, Susmit Shannigrahi, Zhehao Wang
 
 {% image preview IMG_1048.JPG %}
 
@@ -50,18 +50,21 @@ Project participants: Alex Afanasyev, Thiago Teixeira, Eric Newberry, Lei Pi
 
 {% image preview IMG_1040.JPG %}
 
-
-## Other proposals that didn't have enough manpower to work on:
-
 {% assign file="klaus-new-congestion-adaptation" %}
-### 1. New Congestion Adaptation for `ndncatchunks` ([PDF](hacks/{{ file }}.pdf))
+### 7. New Congestion Adaptation for `ndncatchunks` ([PDF](hacks/{{ file }}.pdf))
 
-Project leader: Klaus Schneider
+Project Participants: Klaus Schneider, Thiago Teixeira
+{% image preview 20161105_114455.jpg %}
+
 
 [<img width="300px" src="hacks/preview/{{ file }}.png" />](hacks/preview/{{ file }}.png){: data-lightbox="{{ file }}"}
 
+
+
+## Other proposals that didn't have enough manpower to work on:
+
 {% assign file="zhiyi-new-cert-fetching" %}
-### 2. New Feature for NFD Validator: Fetching Certificate from Remote Prefix Registration Requester ([PDF](hacks/{{ file }}.pdf))
+### 1. New Feature for NFD Validator: Fetching Certificate from Remote Prefix Registration Requester ([PDF](hacks/{{ file }}.pdf))
 
 Project leader: Zhiyi Zhang
 
@@ -70,7 +73,7 @@ Project leader: Zhiyi Zhang
 
 
 {% assign file="junxiao-nfd-cs-partitioning-link" %}
-### 3. Mitigating Cache Poisoning from Link Objects in NFD Forwarding ([PDF](hacks/{{ file }}.pdf))
+### 2. Mitigating Cache Poisoning from Link Objects in NFD Forwarding ([PDF](hacks/{{ file }}.pdf))
 
 Project leader: Junxiao Shi
 
@@ -79,7 +82,7 @@ Project leader: Junxiao Shi
 
 
 {% assign file="junxiao-name-compression" %}
-### 4. Name Compression on MTU-restricted Channels ([PDF](hacks/{{ file }}.pdf))
+### 3. Name Compression on MTU-restricted Channels ([PDF](hacks/{{ file }}.pdf))
 
 Project leader: Junxiao Shi
 
@@ -87,7 +90,7 @@ Project leader: Junxiao Shi
 [<img width="300px" src="hacks/preview/{{ file }}-1.png" />](hacks/preview/{{ file }}-1.png){: data-lightbox="{{ file }}"}
 
 {% assign file="chengyu-sdndn" %}
-### 5. Software-defined Named Data Networking ([PDF](hacks/{{ file }}.pdf))
+### 4. Software-defined Named Data Networking ([PDF](hacks/{{ file }}.pdf))
 
 Project leader: Chengyu Fan
 
@@ -95,7 +98,7 @@ Project leader: Chengyu Fan
 [<img width="300px" src="hacks/preview/{{ file }}-1.png" />](hacks/preview/{{ file }}-1.png){: data-lightbox="{{ file }}"}
 
 {% assign file="thiago-file-sharing-android" %}
-### 10. File sharing via multihomed Android App ([PDF](hacks/{{ file }}.pdf))
+### 5. File sharing via multihomed Android App ([PDF](hacks/{{ file }}.pdf))
 
 Project leader: Thiago Teixeira
 
