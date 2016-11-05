@@ -54,6 +54,7 @@ Project participants: Alex Afanasyev, Thiago Teixeira, Eric Newberry, Lei Pi
 ### 7. New Congestion Adaptation for `ndncatchunks` ([PDF](hacks/{{ file }}.pdf))
 
 Project Participants: Klaus Schneider, Thiago Teixeira
+
 {% image preview 20161105_114455.jpg %}
 
 
