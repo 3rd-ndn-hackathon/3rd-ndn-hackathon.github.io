@@ -11,6 +11,14 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
+
+## Hacking in progress
+
+### Day 1
+
+{% image large IMG_1031.JPG style="width:80%" %}
+
+
 ## News
 
 - October 31, 2016: Posted accepted hackathon projects and final program

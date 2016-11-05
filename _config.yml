@@ -74,14 +74,23 @@ jquery_ver: 1.10.2
 google_plus_one:
     size: medium
 
-# twitter:
-#     username: NamedData
-#     count: 5
-#     exclude_replies: true
-#     show_screen_name: true
-#     show_follower_count: false
-#     widget_id: 698294519054278656
+twitter:
+    username: NamedData
+    count: 5
+    exclude_replies: true
+    show_screen_name: true
+    show_follower_count: false
+    widget_id: 698294519054278656
 
 github:
    username: 3rd-ndn-hackathon
    count: 10
+
+image:
+  source: images
+  output: generated
+  presets:
+    preview:
+      width: 300
+    large:
+      width: 800
