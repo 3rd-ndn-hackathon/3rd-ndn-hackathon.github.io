@@ -16,7 +16,15 @@ We encourage projects that:
 
 ### Day 1
 
+{% image large 20161104_171558.jpg style="width:80%" %}
 {% image large IMG_1031.JPG style="width:80%" %}
+{% image large 20161104_215714.jpg style="width:80%" %}
+{% image large 20161104_215709.jpg style="width:80%" %}
+{% image large 20161104_215751.jpg style="width:80%" %}
+
+### Day 2
+
+{% image large 20161105_085421.jpg style="width:80%" %}
 
 
 ## News
