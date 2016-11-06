@@ -40,7 +40,7 @@ Project participants: Ashlesh Gawande (University of Memphis), Muktadir Chowdhur
 {% assign file="nick-nlsr-sim" %}
 ### 5. nlsrSIM ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Nick Gordon (University of Memphis), Anil Jangam (Cisco), Laqin Fan (University of Memphis)
+Project participants: Nick Gordon (University of Memphis), Anil Jangam (University of Maryland Baltimore County / Cisco), Laqin Fan (University of Memphis)
 
 {% image preview IMG_1043.JPG %}
 

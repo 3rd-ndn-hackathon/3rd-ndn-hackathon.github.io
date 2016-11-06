@@ -36,7 +36,7 @@ We encourage projects that:
 <i class="glyphicon glyphicon-thumbs-up"></i>  **nlsrSIM**
 
 - Nick Gordon (University of Memphis)
-- Anil Jangam (Cisco)
+- Anil Jangam (University of Maryland Baltimore County / Cisco)
 - Laqin Fan (University of Memphis)
 
 ***
