@@ -9,7 +9,7 @@ title: Accepted Hacks for 3nd NDN Hackathon
 {% assign file="junxiao-repo-sql" %}
 ### 1. SQL-based Repository ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Junxiao Shi, Peter Gusev, Zhiyi Zhang
+Project participants: Junxiao Shi (University of Arizona), Peter Gusev (UCLA), Zhiyi Zhang (UCLA)
 
 {% image preview IMG_1045.JPG %}
 
@@ -17,14 +17,14 @@ Project participants: Junxiao Shi, Peter Gusev, Zhiyi Zhang
 {% assign file="junxiao-ndn-on-esp8266" %}
 ### 2. NDN Stack for ESP8266 Microcontroller ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Andres Calderon Jaramillo, Chris Dean
+Project participants: Andres Calderon Jaramillo (Colorado State University), Chris Dean (Colorado State University)
 
 {% image preview IMG_1044.JPG %}
 
 {% assign file="jefft-mu-forwarder-relay" %}
 ### 3. Ad-hoc NDN Relay with MicroForwarder ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Jeff Thompson, Wentao Shang, Susmit Shannigrahi, Zhehao Wang
+Project participants: Jeff Thompson (UCLA), Wentao Shang (UCLA), Susmit Shannigrahi (Colorado State University), Zhehao Wang (UCLA)
 
 {% image preview IMG_1048.JPG %}
 
@@ -32,7 +32,7 @@ Project participants: Jeff Thompson, Wentao Shang, Susmit Shannigrahi, Zhehao Wa
 ### 4. HR Next Phase ([PDF](hacks/{{ file }}.pdf))
 
 
-Project participants: Ashlesh Gawande, Muktadir Chowdhury, Ivan Voitalov [Slides](https://docs.google.com/presentation/d/1_69uq_oeUrCmCAhYxVtt2qfOTQD7-q9Hs1gOzCAhcZk/edit?usp=sharing)
+Project participants: Ashlesh Gawande (University of Memphis), Muktadir Chowdhury (University of Memphis), Ivan Voitalov (Northeastern University) [Slides](https://docs.google.com/presentation/d/1_69uq_oeUrCmCAhYxVtt2qfOTQD7-q9Hs1gOzCAhcZk/edit?usp=sharing)
 
 
 {% image preview IMG_1042.JPG %}
@@ -40,7 +40,7 @@ Project participants: Ashlesh Gawande, Muktadir Chowdhury, Ivan Voitalov [Slides
 {% assign file="nick-nlsr-sim" %}
 ### 5. nlsrSIM ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Nick Gordon, Anil Jangam, Laqin Fan
+Project participants: Nick Gordon (University of Memphis), Anil Jangam (Cisco), Laqin Fan (University of Memphis)
 
 {% image preview IMG_1043.JPG %}
 
@@ -48,19 +48,19 @@ Project participants: Nick Gordon, Anil Jangam, Laqin Fan
 {% assign file="haitao-android-autoconf" %}
 ### 6. Android NDN auto-configuration ([PDF](hacks/{{ file }}.pdf))
 
-Project participants: Alex Afanasyev, Thiago Teixeira, Eric Newberry, Lei Pi
+Project participants: Alex Afanasyev (UCLA), Thiago Teixeira (University of Massachusetts Amherst), Eric Newberry (University of Arizona), Lei Pi
 
 {% image preview IMG_1040.JPG %}
 
 {% assign file="klaus-new-congestion-adaptation" %}
 ### 7. New Congestion Adaptation for `ndncatchunks` ([PDF](hacks/{{ file }}.pdf))
 
-Project Participants: Klaus Schneider, Thiago Teixeira
+Project Participants: Klaus Schneider (University of Arizona), Teng Liang (University of Arizona)
 
 {% image preview 20161105_114455.jpg %}
 
 
-
+******
 
 
 ## Other proposals that didn't have enough manpower to work on:

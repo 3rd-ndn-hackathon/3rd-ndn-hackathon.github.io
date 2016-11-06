@@ -44,6 +44,8 @@ truncate_len: 200
 navbar_list:
 - name: Home
   link: /
+- name: Hacking in progress
+  link: /hacking-in-progress.html
 - name: Call for Hack Proposals
   link: /cfh.html
 - name: Committees

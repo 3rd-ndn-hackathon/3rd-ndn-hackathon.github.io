@@ -11,24 +11,60 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
+## Hackathon Champions
 
-## Hacking in progress
+### Best External Impact
 
-### Day 1
+<div class="alert alert-success" markdown="block">
+<i class="glyphicon glyphicon-thumbs-up"></i>  **Ad-hoc NDN Relay with MicroForwarder**
 
-{% image large 20161104_171558.jpg style="width:80%" %}
-{% image large IMG_1031.JPG style="width:80%" %}
-{% image large 20161104_215714.jpg style="width:80%" %}
-{% image large 20161104_215709.jpg style="width:80%" %}
-{% image large 20161104_215751.jpg style="width:80%" %}
+- Jeff Thompson (UCLA)
+- Wentao Shang (UCLA)
+- Susmit Shannigrahi (Colorado State University)
+- Zhehao Wang (UCLA)
 
-### Day 2
+***
 
-{% image large 20161105_085421.jpg style="width:80%" %}
-{% image large 20161105_113633.jpg style="width:80%" %}
-{% image large 20161105_144225.jpg style="width:80%" %}
-{% image large 20161105_123515.jpg style="width:80%" %}
-{% image large 20161105_144230.jpg style="width:80%" %}
+{% image preview IMG_1048.JPG %}
+{% image preview 20161104_215714.jpg %}
+
+</div>
+
+### Best Internal Impact
+
+<div class="alert alert-success" markdown="block">
+<i class="glyphicon glyphicon-thumbs-up"></i>  **nlsrSIM**
+
+- Nick Gordon (University of Memphis)
+- Anil Jangam (Cisco)
+- Laqin Fan (University of Memphis)
+
+***
+
+{% image preview IMG_1043.JPG %}
+{% image preview 20161105_144230.jpg %}
+
+</div>
+
+### Best Newcomer Project
+
+<div class="alert alert-success" markdown="block">
+<i class="glyphicon glyphicon-thumbs-up"></i>  **NDN Stack for ESP8266 Microcontroller**
+
+- Andres Calderon Jaramillo (Colorado State University)
+- Chris Dean (Colorado State University)
+
+***
+
+{% image preview IMG_1044.JPG %}
+
+</div>
+
+## Prizes
+
+All winners received a Quadcopter Mini Drone, thanks to our generous sponsors [CableLabs](http://www.cablelabs.com/) and  [KYRIO](http://www.kyrio.com/)
+
+{% image large IMG_1052.JPG style="width:80%" %}
 
 ## News
 
